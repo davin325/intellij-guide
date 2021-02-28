@@ -2,7 +2,7 @@
 
 ### 소개
 
-[프로젝트 생성](인텔리제이 6322aca1ab514cb780baefc3199c70d6/프로젝트 생성 411d3275aea5494d8fe8d2eeef1e8314.md.md)
+[프로젝트 생성](6322aca1ab514cb780baefc3199c70d6/프로젝트 생성 411d3275aea5494d8fe8d2eeef1e8314.md)
 
 ### 코드 Edit
 
