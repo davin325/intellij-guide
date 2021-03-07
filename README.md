@@ -14,3 +14,7 @@
 
 - [포커스 에디터](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%ED%8F%AC%EC%BB%A4%EC%8A%A4%20%EC%97%90%EB%94%94%ED%84%B0.md)
 - [포커스 특수키](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%ED%8F%AC%EC%BB%A4%EC%8A%A4%20%ED%8A%B9%EC%88%98%ED%82%A4.md)
+
+### 검색
+- [검색 텍스트](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EA%B2%80%EC%83%89%20%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+- [검색 기타](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EA%B2%80%EC%83%89%20%EA%B8%B0%ED%83%80.md)
