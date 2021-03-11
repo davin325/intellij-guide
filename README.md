@@ -22,3 +22,7 @@
 ### 자동완성
 - [자동완성](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1.md)
 - [Live Template](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/Live%20Template.md)
+
+### 리팩토링
+- [리팩토링 Extract](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20Extract.md)
+- [리팩토링 기타](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%EA%B8%B0%ED%83%80.md)
