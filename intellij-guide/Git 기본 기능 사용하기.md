@@ -5,13 +5,13 @@
     - 윈도우, 리눅스: `Alt + 9`
 2. Git Option Popup
     - 맥: `Ctrl + V`
-    - 윈도우, 리눅스: `Alt + `(Tab 위 버튼)`
+    - 윈도우, 리눅스: Alt + `(Tab 위 버튼)
 3. Git History
     - 맥: `Ctrl + V ⇒ 4`
-    - 윈도우, 리눅스: `Alt + ` (Tab 위 버튼)  => 4`
+    - 윈도우, 리눅스: Alt + `(Tab 위 버튼)  => 4
 4. Branch
     - 맥: `Ctrl + V ⇒ 7`
-    - 윈도우, 리눅스: `Alt + `(Tab 위버튼) => 7`
+    - 윈도우, 리눅스: Alt + `(Tab 위버튼) => 7
 5. Commit
     - 맥: `Command + k`
     - 윈도우, 리눅스: `Ctrl + k`
