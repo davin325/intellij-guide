@@ -26,3 +26,6 @@
 ### 리팩토링
 - [리팩토링 Extract](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20Extract.md)
 - [리팩토링 기타](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%EA%B8%B0%ED%83%80.md)
+
+### 디버깅
+- [디버깅](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EB%94%94%EB%B2%84%EA%B9%85.md)
