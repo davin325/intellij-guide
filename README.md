@@ -29,3 +29,6 @@
 
 ### 디버깅
 - [디버깅](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%EB%94%94%EB%B2%84%EA%B9%85.md)
+
+### Git & Github
+- [Git 기본 기능 사용하기](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/Git%20%EA%B8%B0%EB%B3%B8%20%EA%B8%B0%EB%8A%A5%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
