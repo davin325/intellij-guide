@@ -1,8 +1,13 @@
 # intellij-guide
 
+
+![macKeymap](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/image/macKeymap.jpg)
+![winKeymap](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/image/winKeymap.jpg)
+
+
 ### 소개
 
-[프로젝트 생성](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%83%9D%EC%84%B1.md)
+- [프로젝트 생성](https://github.com/davin325/intellij-guide/blob/main/intellij-guide/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%83%9D%EC%84%B1.md)
 
 ### 코드 Edit
 
